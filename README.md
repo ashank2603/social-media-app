@@ -7,7 +7,7 @@
 - Create a dotenv file in the directory and paste the following in it:
 > MONGO_URL = '<YOUR_MONGODB_ATLAS_URL>'
 >
-> JWT_SECRET = '<SOME RANDOM STRING>' 
+> JWT_SECRET = 'some random string' 
 >
 > PORT = 3001
 - Replace the placeholder with your own data.
