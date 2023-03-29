@@ -14,3 +14,7 @@
 - Run <code>npm start</code>. The server will run on port 3001
 - In a new terminal, cd into the client directory and run <code>npm install</code>
 - Once all packages are installed, run <code>npm start</code>. The frontend will run on localhost:3000.
+
+Deployed App Guest Credentials:
+- Email: guest@email.com
+- Password: guest
